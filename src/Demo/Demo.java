@@ -11,8 +11,7 @@ public class Demo {
         System.out.println();
         System.out.println();
         System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println();//有意思
 
     }
 }
