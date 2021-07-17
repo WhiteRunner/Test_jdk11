@@ -13,6 +13,7 @@ public class Demo {
         System.out.println();
         System.out.println();//有意思
         System.out.println();//哈哈
+        System.out.println();
 
     }
 }
